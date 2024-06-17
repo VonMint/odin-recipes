@@ -1,0 +1,38 @@
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 30px;
+    color: rgb(172, 53, 17)
+}
+
+.intro-text {
+    font-size: 16px;
+    color: rgb(40, 38, 68);
+}
+
+li {
+    color: rgb(31, 16, 165)
+}
+
+.link-item {
+    font-weight: bold;
+}
+
+img{
+    width: auto;
+}
+
+#pancake-image{
+    height: 250px;
+}
+
+#chocolate-cookie-image{
+    height: 200px;
+}
+
+#pancake-image{
+    height: 280px;
+}
